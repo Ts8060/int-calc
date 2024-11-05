@@ -1,0 +1,12 @@
+{
+  "name": "js-rps",
+  "version": "1.0.0",
+  "description": "Calculation Sample",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NC",
+  "license": "ISC",
+  "type": "module"
+}
